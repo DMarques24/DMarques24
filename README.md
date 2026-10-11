@@ -1,6 +1,6 @@
 # Hi, I'm Diogo
 
-Mobile developer at Deloitte since 2022, building Android and cross-platform apps with Kotlin (Jetpack Compose) and Flutter. Final-year Computer Engineering student at ISEC, Coimbra.
+Mobile developer since 2022, building Android and cross-platform apps with Kotlin (Jetpack Compose) and Flutter. Final-year Computer Engineering student at ISEC, Coimbra.
 
 ## Projects
 
